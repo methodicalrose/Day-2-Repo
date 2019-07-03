@@ -1,0 +1,38 @@
+.promo, header, nav, content, aside, footer {
+    border: 1px solid black;
+}
+
+.container-fluid {
+    background-color: yellow;
+}
+
+.promo {
+    height: 150px;
+    background-color: orange;
+}
+
+header {
+    height: 150px;
+    background-color: blue;
+}
+
+nav {
+    height: 50px;
+    background-color: green;
+}
+
+content {
+    height: 250px;
+    background-color: red;
+}
+
+aside {
+    height: 250px;
+    background-color: teal;
+}
+
+footer {
+    height: 50px;
+    color: white;
+    background-color: black;
+}
