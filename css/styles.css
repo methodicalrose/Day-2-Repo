@@ -1,4 +1,4 @@
-* {
+.promo, header, nav, content, aside, footer {
     border: 1px solid black;
 }
 
